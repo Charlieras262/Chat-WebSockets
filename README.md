@@ -12,11 +12,11 @@ Es necesario previo a la instalación se cuentes con los siguientes programas:
 
 1. Instalar dependencias y compilar
 ~~~
-	$: mvn clean install
+$: mvn clean install
 ~~~
 2. Ejecutar el Jar que genera en la carpeta del proyecto en target
 ~~~
-	/ruta/del/proyecto/auth-service/target/*.jar
+/ruta/del/proyecto/auth-service/target/*.jar
 ~~~
 
 
@@ -28,11 +28,11 @@ Es necesario previo a la instalación se cuentes con los siguientes programas:
 
 1. Instalar dependencias y compilar
 ~~~
-	$: mvn clean install
+$: mvn clean install
 ~~~
 2. Ejecutar el Jar que genera en la carpeta del proyecto en target
 ~~~
-	/ruta/del/proyecto/chat-service/target/*.jar
+/ruta/del/proyecto/chat-service/target/*.jar
 ~~~
 
 ## Modulo JWT-WebClient
@@ -42,11 +42,11 @@ Es necesario previo a la instalación se cuente con los siguientes programas:
 
 1. Instalar dependencias
 ~~~
-	$: npm install
+$: npm install
 ~~~
 2. Compilar 
 ~~~
-	$: npm start
+$: npm start
 ~~~
 3. Dirigirse a `http://localhost:3000` en esta ruta se encuentra levantado el servidor de desarrollo del proyecto.
 
